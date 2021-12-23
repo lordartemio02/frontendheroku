@@ -279,6 +279,7 @@ function TakeProducts() {
         <button onClick={addProduct}>Add new product</button>
       </form>
       <FileUpload />
+      <h1 className="h1">List of item</h1>
       {isLoadingImage && isLoadingAudio && isLoadingDoc && isLoadingVideo ? (
         <div></div>
       ) : (
