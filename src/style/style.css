@@ -1,0 +1,30 @@
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+.h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.inputField{
+    margin-right: 10px;
+    width: 150px;
+    margin-bottom: 10px;
+}
+.image{
+    width: 500px;
+    height: 400px;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.blockImg{
+    margin-bottom: 30px;
+}
+.flex{
+    display: flex;
+}
+.button{
+    margin-top: 20px;
+    margin-left: 10px;
+}
